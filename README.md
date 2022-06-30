@@ -1,1 +1,1 @@
-https://HungryVovka.github.io/VladimirRukavishnikovCV
+https://vladimirrukavishnikovcv.netlify.app
