@@ -1,1 +1,1 @@
-vladimirrukavishnikovcv.netlify.app
+https://vladimirrukavishnikovcv.netlify.app
