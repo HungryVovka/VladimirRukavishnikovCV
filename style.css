@@ -228,12 +228,12 @@ ul.navigation  {
 
 /* Setting styles by ID selector */
 #about-me p,
-#code pre {
+#project pre {
    margin: 10px 30px;
    padding-top: 5px;
 }
 
-#code pre {
+#project pre {
    font-size: 11px;
 }
 
